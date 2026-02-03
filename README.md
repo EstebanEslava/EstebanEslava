@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Hello! What's up? I'm Esteban Eslava </h1>
+ <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Hello! What's up? I'm Esteban Eslava </h1>
 <span align="center">
 
 
@@ -99,8 +99,10 @@ weighing less than 2 grams? They are also the only birds capable of flying backw
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
   
 </div>
+<br>
+<br>
 
-### Let's get in touch!
+## Let's get in touch!
  <div aling="center">
 <a href="https://www.linkedin.com/in/esteban-eslava/" target="_blank" >
   <img align="center" alt="Estebtan Eslava | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
