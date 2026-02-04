@@ -11,7 +11,7 @@
 
 ### 
 
- 🌎 I am from Cali, Colombia. <br>
+* 🌎 I am from Cali, Colombia. <br>
  🧠 In constant learning <br>
  🚀 Focused on growing and improving my code <br>
  💬 Driving MERN projects to success.<br>
