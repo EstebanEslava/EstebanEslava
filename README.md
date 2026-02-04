@@ -11,14 +11,14 @@
 
 ### 
 
- 🌎 I am from Cali, Colombia. <br>
- 🧠 In constant learning <br>
- 🚀 Focused on growing and improving my code <br>
+ 🌎I am from Cali, Colombia. <br>
+ 🧠In constant learning <br>
+ 🚀Focused on growing and improving my code <br>
  :speech_balloon: Driving MERN projects to success.<br>
- 🤝 Open to: Collaborations, feedback, new opportunities <br>
- 🍃 I love nature and lately I've been fascinated by birds <br>
+ 🤝Open to: Collaborations, feedback, new opportunities <br>
+ 🍃I love nature and lately I've been fascinated by birds <br>
  <br>
- :zap: Fun fact: Did you know that the bee hummingbird is the smallest hummingbird in the world,<br>
+ :zap:Fun fact: Did you know that the bee hummingbird is the smallest hummingbird in the world,<br>
 weighing less than 2 grams? They are also the only birds capable of flying backward.. <br>
  <br>
  <br>
