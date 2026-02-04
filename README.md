@@ -5,26 +5,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=welcome+to+my+Github;I+am+a+Full+Stack+Developer+👨🏻‍💻;I+manage+the+MERN+stack;)](https://git.io/typing-svg)
 <span/>
 <br>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="270">
 
  ### ✨ABOUT ME
 
 ### 
+ <p>🌎 I am from Cali, Colombia.</p>
+ <p>🧠 In constant learning</p>
+ <p>🚀 Focused on growing and improving my code</p>
+ <p>💬 Driving MERN projects to success.</p>
+ <p>🤝 Open to: Collaborations, feedback, new opportunities</p>
+ <p>🍃 I love nature and lately I've been fascinated by birds></p>
+ <p> 🤔 Fun fact: Did you know that the bee hummingbird is the smallest hummingbird in the world,<br>
+weighing less than 2 grams? They are also the only birds capable of flying backward..</p>
 
-* 🌎 I am from Cali, Colombia. <br>
- 🧠 In constant learning <br>
- 🚀 Focused on growing and improving my code <br>
- 💬 Driving MERN projects to success.<br>
- 🤝 Open to: Collaborations, feedback, new opportunities <br>
- 🍃 I love nature and lately I've been fascinated by birds <br>
- <br>
- :zap:Fun fact: Did you know that the bee hummingbird is the smallest hummingbird in the world,<br>
-weighing less than 2 grams? They are also the only birds capable of flying backward.. <br>
  <br>
  <br>
- <br>
- 
- ###
  
  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies and Skills</b>
 <br>
